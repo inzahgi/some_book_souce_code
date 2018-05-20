@@ -1,0 +1,3 @@
+[submodule "CppPrimer"]
+	path = CppPrimer
+	url = https://github.com/pezy/CppPrimer.git
