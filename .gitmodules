@@ -1,3 +1,6 @@
 [submodule "CppPrimer"]
 	path = CppPrimer
 	url = https://github.com/pezy/CppPrimer.git
+[submodule "dragon-book-exercise-answers"]
+	path = dragon-book-exercise-answers
+	url = https://github.com/inzahgi/dragon-book-exercise-answers.git
